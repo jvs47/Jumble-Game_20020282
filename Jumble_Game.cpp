@@ -121,7 +121,7 @@ void process(Quest com)
         {
             ending(0);
         }
-        cout << "\n\nYour guess: ";
+        cout << "\nYour guess: ";
         cin >> guess;
     }
     if (guess == com.theword)
